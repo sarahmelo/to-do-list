@@ -1,6 +1,6 @@
 <template>
   <section>
-    <nav class="md:w-auto flex justify-between p-2 border-black-300">
+    <nav class="md:w-auto flex auto p-2 border-black-300">
       <h1>To do List</h1>
       <div class="flex auto-cols-auto space-x-4">
         <p> Welcome back!</p>
